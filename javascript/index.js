@@ -33,3 +33,5 @@ btns.forEach((btn, i) => {
   });
 });
 
+git config --global user.email "axitvora820@gmail.com"
+  git config --global user.name "axitvora820-hash"
